@@ -1,0 +1,107 @@
+[
+  {
+    "name": "Edit Melee Water",
+    "cost": 1,
+    "requiredTech": "Combustion",
+    "uniques": [
+      "Unbuildable <hidden from users>",
+      "Comment [Let's design your own navy!]",
+      "Triggers a [Turret] event <hidden from users>",
+      "Remove [Edit Melee Water] [in this city] <hidden from users>",
+      "Blueprints"
+    ]
+  },
+  {
+    "name": "Turret;Main caliber",
+    "cost": 1,
+    "uniques": [
+      "All newly-trained [Melee Water] units [in this city] receive the [Main caliber] promotion",
+      "Unbuildable",
+      "Unsellable",
+      "Turret"
+    ]
+  },
+  {
+    "name": "Turret;Auxiliary caliber",
+    "cost": 1,
+    "uniques": [
+      "[-15]% Production when constructing [Melee Water] units [in this city]",
+      "All newly-trained [Melee Water] units [in this city] receive the [Auxiliary caliber] promotion",
+      "Unbuildable",
+      "Unsellable",
+      "Turret"
+    ]
+  },
+  {
+    "name": "Turret; Torpedo",
+    "cost": 1,
+    "uniques": [
+      "All newly-trained [Melee Water] units [in this city] receive the [Torpedo] promotion",
+      "Unbuildable",
+      "Unsellable",
+      "Turret"
+    ]
+  },
+  {
+    "name": "Armour;Light",
+    "cost": 1,
+    "uniques": [
+      "[+25]% Production when constructing [Melee Water] units [in this city]",
+      "All newly-trained [Melee Water] units [in this city] receive the [Light] promotion",
+      "Unbuildable",
+      "Unsellable",
+      "Armour"
+    ]
+  },
+  {
+    "name": "Armour;Heavy",
+    "cost": 1,
+    "uniques": [
+      "[-25]% Production when constructing [Melee Water] units [in this city]",
+      "All newly-trained [Melee Water] units [in this city] receive the [Heavy] promotion",
+      "Unbuildable",
+      "Unsellable",
+      "Armour"
+    ]
+  },
+  {
+    "name": "Armour;Stealth",
+    "cost": 1,
+    "uniques": [
+      "All newly-trained [Melee Water] units [in this city] receive the [Stealth] promotion",
+      "Unbuildable",
+      "Unsellable",
+      "Armour"
+    ]
+  },
+  {
+    "name": "Engine;Gasoline Engine",
+    "cost": 1,
+    "uniques": [
+      "All newly-trained [Melee Water] units [in this city] receive the [Gasoline Engine] promotion",
+      "Unbuildable",
+      "Unsellable",
+      "Engine"
+    ]
+  },
+  {
+    "name": "Engine;Jet Engine",
+    "cost": 1,
+    "uniques": [
+      "All newly-trained [Melee Water] units [in this city] receive the [Jet Engine] promotion",
+      "Unbuildable",
+      "Unsellable",
+      "Engine"
+    ]
+  },
+  {
+    "name": "Engine;MBT Engine",
+    "cost": 1,
+    "uniques": [
+      "All newly-trained [Melee Water] units [in this city] receive the [MBT Engine] promotion",
+      "Unbuildable",
+      "Unsellable",
+      "Engine"
+    ]
+  }
+]

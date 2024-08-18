@@ -1,0 +1,64 @@
+[
+  {
+    "name": "Main caliber",
+    "uniques": [
+      "[-50]% Strength <vs Melee Water] units> <when attacking>",
+      "[+50]% Strength <vs [Gunpowder] units> <when attacking>"
+    ]
+  },
+  {
+    "name": "Auxiliary caliber",
+    "uniques": [
+      "[+25]% Strength <when attacking>"
+    ]
+  },
+  {
+    "name": "Torpedo",
+    "uniques": [
+      "[-1] Movement",
+      "[+100]% Strength <vs [Melee Water] units> <when attacking>"
+    ]
+  },
+  {
+    "name": "Light",
+    "uniques": [
+      "[+1] Movement",
+      "[-50]% Strength <when defending>"
+    ]
+  },
+  {
+    "name": "Heavy",
+    "uniques": [
+      "[-1] Movement",
+      "[+50]% Strength <when defending>"
+    ]
+  },
+  {
+    "name": "Stealth",
+    "uniques": [
+      "[-1] Sight",
+      "Invisible to non-adjacent units"
+    ]
+  },
+  {
+    "name": "Gasoline Engine",
+    "uniques": [
+      "[+1] Movement",
+      "Gain [-4] [Gold] <upon turn end>"
+    ]
+  },
+  {
+    "name": "Jet Engine",
+    "uniques": [
+      "[+3] Movement",
+      "Gain [-24] [Gold] <upon turn end>"
+    ]
+  },
+  {
+    "name": "MBT Engine",
+    "uniques": [
+      "[+2] Movement",
+      "Gain [-9] [Gold] <upon turn end>"
+    ]
+  }
+]

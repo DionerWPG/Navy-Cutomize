@@ -1,0 +1,132 @@
+[
+  {
+    "name": "Turret",
+    "text": "Turret",
+    "choices": [
+      {
+        "text": "Howitzer",
+        "triggeredUniques": [
+          "Default",
+          "Remove [Turret] [in all cities] <hidden from users>",
+          "Triggers a [Melee Water] event <hidden from users>"
+        ]
+      },
+      {
+        "text": "Main caliber",
+        "triggeredUniques": [
+          "+50% attack against Gunpowder",
+          "-50% attack against Armor",
+          "Remove [Turret] [in all cities] <hidden from users>",
+          "Gain a free [Turret;Machine Gun] [in all cities] <hidden from users>",
+          "Triggers a [Melee Water] event <hidden from users>"
+        ]
+      },
+      {
+        "text": "Auxiliary caliber",
+        "triggeredUniques": [
+          "+25% attack strength",
+          "15% cost expensive",
+          "Remove [Turret] [in all cities] <hidden from users>",
+          "Gain a free [Turret;Cannon] [in all cities] <hidden from users>",
+          "Triggers a [Melee Water] event <hidden from users>"
+        ]
+      },
+      {
+        "text": "Torpedo Gun",
+        "triggeredUniques": [
+          "+100% attack against Armor",
+          "-1 Movement",
+          "Remove [Turret] [in all cities] <hidden from users>",
+          "Gain a free [Turret;Anti-Tank Gun] [in all cities] <hidden from users>",
+          "Triggers a [Armour] event <hidden from users>"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Armour",
+    "text": "Armour",
+    "choices": [
+      {
+        "text": "Medium Armour",
+        "triggeredUniques": [
+          "Default",
+          "Remove [Armour] [in all cities] <hidden from users>",
+          "Triggers a [Engine] event <hidden from users>"
+        ]
+      },
+      {
+        "text": "Light Armour",
+        "triggeredUniques": [
+          "+1 Movement",
+          "-50% defence strength",
+          "25% cost cheap",
+          "Remove [Armour] [in all cities] <hidden from users>",
+          "Gain a free [Armour;Light] [in all cities] <hidden from users>",
+          "Triggers a [Engine] event <hidden from users>"
+        ]
+      },
+      {
+        "text": "Heavy Armour",
+        "triggeredUniques": [
+          "-1 Movement",
+          "+50% defence strength",
+          "25% cost expensive",
+          "Remove [Armour] [in all cities] <hidden from users>",
+          "Gain a free [Armour;Heavy] [in all cities] <hidden from users>",
+          "Triggers a [Engine] event <hidden from users>"
+        ]
+      },
+      {
+        "text": "Stealth",
+        "triggeredUniques": [
+          "Stealth ability",
+          "-1 Sight",
+          "Remove [Armour] [in all cities] <hidden from users>",
+          "Gain a free [Armour;Stealth] [in all cities] <hidden from users>",
+          "Triggers a [Engine] event <hidden from users>"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Engine",
+    "text": "Engine",
+    "choices": [
+      {
+        "text": "Diesel Engine",
+        "triggeredUniques": [
+          "Default",
+          "Remove [Engine] [in all cities] <hidden from users>"
+        ]
+      },
+      {
+        "text": "Gasoline Engine",
+        "triggeredUniques": [
+          "+1 Movement",
+          "5 maintenance cost",
+          "Remove [Engine] [in all cities] <hidden from users>",
+          "Gain a free [Engine;Gasoline Engine] [in all cities] <hidden from users>"
+        ]
+      },
+      {
+        "text": "Jet Engine",
+        "triggeredUniques": [
+          "+3 Movement",
+          "25 maintenance cost",
+          "Remove [Engine] [in all cities] <hidden from users>",
+          "Gain a free [Engine;Jet Engine] [in all cities] <hidden from users>"
+        ]
+      },
+      {
+        "text": "MBT Engine",
+        "triggeredUniques": [
+          "+2 Movement",
+          "10 maintenance cost",
+          "Remove [Engine] [in all cities] <hidden from users>",
+          "Gain a free [Engine;MBT Engine] [in all cities] <hidden from users>"
+        ]
+      }
+    ]
+  }
+]
